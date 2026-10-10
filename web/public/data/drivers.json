@@ -1,0 +1,102 @@
+[
+  {
+    "Feature": "StockOptionLevel",
+    "Label": "Stock option level",
+    "MeanAbsSHAP": 0.52484
+  },
+  {
+    "Feature": "OT_x_JobLevel",
+    "Label": "Overtime at junior job level",
+    "MeanAbsSHAP": 0.33202
+  },
+  {
+    "Feature": "JobSatisfaction",
+    "Label": "Job satisfaction",
+    "MeanAbsSHAP": 0.30506
+  },
+  {
+    "Feature": "Age",
+    "Label": "Age",
+    "MeanAbsSHAP": 0.25854
+  },
+  {
+    "Feature": "JobRole",
+    "Label": "Job role",
+    "MeanAbsSHAP": 0.2486
+  },
+  {
+    "Feature": "OverTime",
+    "Label": "Works overtime",
+    "MeanAbsSHAP": 0.24245
+  },
+  {
+    "Feature": "DistanceFromHome",
+    "Label": "Commute distance",
+    "MeanAbsSHAP": 0.23525
+  },
+  {
+    "Feature": "EnvironmentSatisfaction",
+    "Label": "Environment satisfaction",
+    "MeanAbsSHAP": 0.22211
+  },
+  {
+    "Feature": "BusinessTravel",
+    "Label": "Business travel frequency",
+    "MeanAbsSHAP": 0.20009
+  },
+  {
+    "Feature": "RoleStability",
+    "Label": "Stability in current role",
+    "MeanAbsSHAP": 0.19045
+  },
+  {
+    "Feature": "IncomeVsRoleMedian",
+    "Label": "Pay relative to role peers",
+    "MeanAbsSHAP": 0.18415
+  },
+  {
+    "Feature": "TenureRatio",
+    "Label": "Share of career spent here",
+    "MeanAbsSHAP": 0.17301
+  },
+  {
+    "Feature": "IncomeVsLevelMedian",
+    "Label": "Pay relative to job-level peers",
+    "MeanAbsSHAP": 0.15662
+  },
+  {
+    "Feature": "JobLevel",
+    "Label": "Job level",
+    "MeanAbsSHAP": 0.15161
+  },
+  {
+    "Feature": "EducationField",
+    "Label": "Education field",
+    "MeanAbsSHAP": 0.14731
+  },
+  {
+    "Feature": "TrainingTimesLastYear",
+    "Label": "Training sessions last year",
+    "MeanAbsSHAP": 0.14617
+  },
+  {
+    "Feature": "MonthlyIncome",
+    "Label": "Monthly income",
+    "MeanAbsSHAP": 0.12713
+  },
+  {
+    "Feature": "JobInvolvement",
+    "Label": "Job involvement",
+    "MeanAbsSHAP": 0.12573
+  },
+  {
+    "Feature": "ManagerStability",
+    "Label": "Stability with current manager",
+    "MeanAbsSHAP": 0.11727
+  },
+  {
+    "Feature": "Department",
+    "Label": "Department",
+    "MeanAbsSHAP": 0.11303
+  }
+]

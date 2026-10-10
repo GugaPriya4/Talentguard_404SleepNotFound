@@ -1,0 +1,157 @@
+{
+  "generatedAt": "2026-10-10T07:54:40.373704+00:00",
+  "modelName": "ensemble",
+  "modelVersion": "1.1.0",
+  "totalEmployees": 1470,
+  "historicalAttritionCount": 237,
+  "historicalAttritionRate": 16.12,
+  "overtimeAttritionRate": 30.53,
+  "nonOvertimeAttritionRate": 10.44,
+  "highRiskCount": 151,
+  "riskTierStats": [
+    {
+      "tier": "Critical",
+      "employees": 53,
+      "leavers": 49,
+      "attritionRate": 92.45,
+      "avgRiskScore": 92.45
+    },
+    {
+      "tier": "Elevated",
+      "employees": 123,
+      "leavers": 45,
+      "attritionRate": 36.59,
+      "avgRiskScore": 36.59
+    },
+    {
+      "tier": "High",
+      "employees": 98,
+      "leavers": 56,
+      "attritionRate": 57.14,
+      "avgRiskScore": 57.14
+    },
+    {
+      "tier": "Low",
+      "employees": 988,
+      "leavers": 51,
+      "attritionRate": 5.16,
+      "avgRiskScore": 5.16
+    },
+    {
+      "tier": "Moderate",
+      "employees": 208,
+      "leavers": 36,
+      "attritionRate": 17.31,
+      "avgRiskScore": 17.31
+    }
+  ],
+  "modelMetrics": {
+    "prAuc": 0.6223,
+    "rocAuc": 0.8362,
+    "precisionAt50": 0.92,
+    "recallAt50": 0.1941,
+    "liftAt50": 5.71,
+    "brier": 0.0902
+  },
+  "operatingPoint": {
+    "threshold": 0.3,
+    "accuracy": 85.65,
+    "balancedAccuracy": 76.62,
+    "precision": 54.74,
+    "recall": 63.29,
+    "f1": 0.587,
+    "flagged": 274,
+    "truePositives": 150,
+    "falsePositives": 124,
+    "falseNegatives": 87,
+    "baselineAccuracy": 83.88
+  },
+  "departmentBreakdown": [
+    {
+      "department": "Human Resources",
+      "employees": 63,
+      "attritionRate": 19.05,
+      "avgRiskScore": 19.81,
+      "highRisk": 11
+    },
+    {
+      "department": "Research & Development",
+      "employees": 961,
+      "attritionRate": 13.84,
+      "avgRiskScore": 14.47,
+      "highRisk": 85
+    },
+    {
+      "department": "Sales",
+      "employees": 446,
+      "attritionRate": 20.63,
+      "avgRiskScore": 19.16,
+      "highRisk": 55
+    }
+  ],
+  "jobRoleBreakdown": [
+    {
+      "jobRole": "Healthcare Representative",
+      "employees": 131,
+      "attritionRate": 6.87,
+      "avgRiskScore": 5.81,
+      "highRisk": 1
+    },
+    {
+      "jobRole": "Human Resources",
+      "employees": 52,
+      "attritionRate": 23.08,
+      "avgRiskScore": 23.19,
+      "highRisk": 11
+    },
+    {
+      "jobRole": "Laboratory Technician",
+      "employees": 259,
+      "attritionRate": 23.94,
+      "avgRiskScore": 23.34,
+      "highRisk": 43
+    },
+    {
+      "jobRole": "Manager",
+      "employees": 102,
+      "attritionRate": 4.9,
+      "avgRiskScore": 4.02,
+      "highRisk": 0
+    },
+    {
+      "jobRole": "Manufacturing Director",
+      "employees": 145,
+      "attritionRate": 6.9,
+      "avgRiskScore": 5.8,
+      "highRisk": 0
+    },
+    {
+      "jobRole": "Research Director",
+      "employees": 80,
+      "attritionRate": 2.5,
+      "avgRiskScore": 3.89,
+      "highRisk": 0
+    },
+    {
+      "jobRole": "Research Scientist",
+      "employees": 292,
+      "attritionRate": 16.1,
+      "avgRiskScore": 19.74,
+      "highRisk": 41
+    },
+    {
+      "jobRole": "Sales Executive",
+      "employees": 326,
+      "attritionRate": 17.48,
+      "avgRiskScore": 15.1,
+      "highRisk": 23
+    },
+    {
+      "jobRole": "Sales Representative",
+      "employees": 83,
+      "attritionRate": 39.76,
+      "avgRiskScore": 41.44,
+      "highRisk": 32
+    }
+  ]
+}

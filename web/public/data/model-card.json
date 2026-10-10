@@ -1,0 +1,125 @@
+{
+  "modelName": "TalentGuard Attrition Risk Model",
+  "version": "1.1.0",
+  "frozenAt": "2026-10-10T07:24:15.966983+00:00",
+  "algorithm": "ensemble",
+  "validation": "5-fold stratified CV x 3 repeats, feature engineering fitted per fold",
+  "featureCount": 38,
+  "decisionThreshold": 0.6700000000000002,
+  "riskTierCuts": {
+    "Critical": 0.7,
+    "High": 0.5,
+    "Elevated": 0.25,
+    "Moderate": 0.1
+  },
+  "metrics": {
+    "PR_AUC": 0.6223,
+    "ROC_AUC": 0.8362,
+    "Precision@50": 0.92,
+    "Recall@50": 0.1941,
+    "Lift@50": 5.71,
+    "Threshold": 0.67,
+    "Precision": 0.3935,
+    "Recall": 0.7722,
+    "F1": 0.5214,
+    "F2": 0.6476,
+    "TP": 183,
+    "FP": 282,
+    "FN": 54,
+    "TN": 951,
+    "Brier": 0.2384
+  },
+  "acceptance": [
+    {
+      "Criterion": "PR-AUC",
+      "Actual": 0.6223,
+      "Target": ">= 0.55",
+      "Status": "PASS"
+    },
+    {
+      "Criterion": "Recall@50",
+      "Actual": 0.1941,
+      "Target": ">= 0.12",
+      "Status": "PASS"
+    },
+    {
+      "Criterion": "Precision@50",
+      "Actual": 0.92,
+      "Target": ">= 0.5",
+      "Status": "PASS"
+    },
+    {
+      "Criterion": "Lift@50",
+      "Actual": 5.71,
+      "Target": ">= 3.0",
+      "Status": "PASS"
+    },
+    {
+      "Criterion": "PR-AUC fold std",
+      "Actual": 0.0635,
+      "Target": "<= 0.08",
+      "Status": "PASS"
+    },
+    {
+      "Criterion": "Uplift vs baseline",
+      "Actual": 0.0355,
+      "Target": ">= 0.03",
+      "Status": "PASS"
+    },
+    {
+      "Criterion": "Gender parity gap (pp)",
+      "Actual": 1.14,
+      "Target": "<= 10.0",
+      "Status": "PASS"
+    }
+  ],
+  "excludedFeatures": {
+    "notSignificant": [
+      "DailyRate",
+      "HourlyRate",
+      "MonthlyRate",
+      "PerformanceRating",
+      "PercentSalaryHike",
+      "RelationshipSatisfaction",
+      "NumCompaniesWorked"
+    ],
+    "zeroVariance": [
+      "EmployeeCount",
+      "Over18",
+      "StandardHours"
+    ],
+    "protectedAttributes": [
+      "Gender",
+      "MaritalStatus"
+    ]
+  },
+  "intendedUse": "Decision support for HR retention planning. Outputs are advisory and require human review.",
+  "prohibitedUse": "Must not be used for termination, promotion denial, compensation reduction, or any adverse action.",
+  "limitations": [
+    "Trained on a single-snapshot public dataset (IBM HR Analytics).",
+    "Associations are correlational, not causal.",
+    "WorkLifeBalance level 4 shows a non-monotonic anomaly (n=153).",
+    "Subgroup rates with fewer than 30 employees are low-confidence.",
+    "Requires revalidation on live HRIS data before production use."
+  ],
+  "calibration": {
+    "method": "Isotonic regression on out-of-fold ensemble ranks",
+    "brierBefore": 0.2384,
+    "brierAfter": 0.0902
+  },
+  "operatingPoint": {
+    "threshold": 0.3,
+    "accuracy": 85.65,
+    "balancedAccuracy": 76.62,
+    "precision": 54.74,
+    "recall": 63.29,
+    "f1": 0.587,
+    "flagged": 274,
+    "truePositives": 150,
+    "falsePositives": 124,
+    "falseNegatives": 87,
+    "baselineAccuracy": 83.88
+  },
+  "accuracyNote": "Accuracy is reported for completeness only. A trivial model predicting no attrition achieves 83.88% accuracy while identifying zero at-risk employees. Balanced accuracy, PR-AUC and capacity-aware precision are the governing metrics.",
+  "watchlistPrecision": 0.92
+}

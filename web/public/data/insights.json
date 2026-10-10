@@ -1,0 +1,44 @@
+[
+  {
+    "id": "overtime",
+    "severity": "critical",
+    "metric": "2.9x",
+    "title": "Overtime is the strongest single driver",
+    "detail": "Employees working overtime leave at 30.53% versus 10.44%. Around 35% of all departures are attributable to overtime."
+  },
+  {
+    "id": "equity",
+    "severity": "high",
+    "metric": "#1 driver",
+    "title": "Stock options rank first in SHAP importance",
+    "detail": "Stock option level is the model's strongest single feature, ahead of every satisfaction metric. Stayers average 0.85, leavers 0.53."
+  },
+  {
+    "id": "pay-floor",
+    "severity": "high",
+    "metric": "45.6%",
+    "title": "Attrition is a pay-floor problem",
+    "detail": "The bottom income quartile produces 45.6% of all attrition from 25% of headcount. Above roughly 5,000 per month the retention return on pay is negligible."
+  },
+  {
+    "id": "sentiment",
+    "severity": "medium",
+    "metric": "21.1% vs 17.6%",
+    "title": "Behaviour beats sentiment",
+    "detail": "Highly satisfied employees who work overtime leave more often than dissatisfied employees who do not."
+  },
+  {
+    "id": "targeting",
+    "severity": "info",
+    "metric": "5.7x",
+    "title": "Top 50 watchlist is 5.7x denser in risk",
+    "detail": "46 of the top 50 ranked employees genuinely left. Random selection would find 8."
+  },
+  {
+    "id": "fairness",
+    "severity": "info",
+    "metric": "1.14 pp",
+    "title": "No gender disparity detected",
+    "detail": "Gender flag-rate parity gap is 1.14 percentage points. Gender is excluded from model features."
+  }
+]

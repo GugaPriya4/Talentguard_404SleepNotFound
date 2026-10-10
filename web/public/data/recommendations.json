@@ -1,0 +1,2434 @@
+[
+  {
+    "employeeId": 478,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 478,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 478,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 478,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 478,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 478,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 614,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 614,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 614,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 614,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 614,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 614,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 622,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with poor work-life balance",
+    "RecommendedAction": "Workload review and recovery-time planning with line manager"
+  },
+  {
+    "employeeId": 622,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 622,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 622,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 622,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 622,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 622,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 622,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1939,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1939,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1939,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1939,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1939,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Long tenure, short time in current role",
+    "RecommendedAction": "Career-path discussion and internal mobility options"
+  },
+  {
+    "employeeId": 1939,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 1944,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1944,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1944,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1944,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 1944,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1868,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with poor work-life balance",
+    "RecommendedAction": "Workload review and recovery-time planning with line manager"
+  },
+  {
+    "employeeId": 1868,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 1868,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1868,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1868,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1868,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1868,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1868,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1878,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1878,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1878,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1878,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1878,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1928,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1928,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1928,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1928,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1928,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 1928,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1783,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1783,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1783,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1783,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1783,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1783,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 1783,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1844,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 1844,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1844,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1844,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1844,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1844,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 1844,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 1844,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 47,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 47,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 47,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 47,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 47,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 485,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 485,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 485,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 485,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 485,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 514,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 514,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 514,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 514,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 514,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 514,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1248,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 1248,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1248,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1248,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1248,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1248,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1248,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 1248,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1273,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 1273,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1273,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1273,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1273,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1273,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1273,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1004,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1004,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1004,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1004,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1004,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Long tenure, short time in current role",
+    "RecommendedAction": "Career-path discussion and internal mobility options"
+  },
+  {
+    "employeeId": 1004,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1004,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 1016,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 1016,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1016,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1016,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1016,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1016,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 1016,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 235,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 235,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 235,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 235,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 235,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1427,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1427,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1427,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1427,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1427,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1108,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 1108,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1108,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1108,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1108,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1108,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 1108,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 994,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 994,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 994,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 994,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 994,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 994,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 994,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 994,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1494,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with poor work-life balance",
+    "RecommendedAction": "Workload review and recovery-time planning with line manager"
+  },
+  {
+    "employeeId": 1494,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1494,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1494,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1494,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 1494,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 952,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 952,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 952,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 952,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 952,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 394,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 394,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 394,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 394,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 911,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with poor work-life balance",
+    "RecommendedAction": "Workload review and recovery-time planning with line manager"
+  },
+  {
+    "employeeId": 911,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 911,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 911,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 911,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 911,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 911,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 959,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 959,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 959,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 959,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 959,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 959,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 959,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1624,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1624,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1624,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1624,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1624,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1624,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 167,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with poor work-life balance",
+    "RecommendedAction": "Workload review and recovery-time planning with line manager"
+  },
+  {
+    "employeeId": 167,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 167,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 167,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 167,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 167,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 167,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 816,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 816,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 816,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 816,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 816,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 816,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 816,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1649,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with poor work-life balance",
+    "RecommendedAction": "Workload review and recovery-time planning with line manager"
+  },
+  {
+    "employeeId": 1649,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1649,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1649,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1649,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1649,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Long tenure, short time in current role",
+    "RecommendedAction": "Career-path discussion and internal mobility options"
+  },
+  {
+    "employeeId": 1649,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 1649,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 1758,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with poor work-life balance",
+    "RecommendedAction": "Workload review and recovery-time planning with line manager"
+  },
+  {
+    "employeeId": 1758,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1758,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1758,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 1758,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 1758,
+    "RiskScore": 100.0,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 137,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 137,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 137,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 137,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 137,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1767,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 1767,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1767,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1767,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1767,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1767,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 163,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with poor work-life balance",
+    "RecommendedAction": "Workload review and recovery-time planning with line manager"
+  },
+  {
+    "employeeId": 163,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 163,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 163,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1569,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1569,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1569,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1569,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1569,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 1569,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 1569,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1604,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1604,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1604,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1604,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1604,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1405,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1405,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1405,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1405,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1405,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Long tenure, short time in current role",
+    "RecommendedAction": "Career-path discussion and internal mobility options"
+  },
+  {
+    "employeeId": 932,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with poor work-life balance",
+    "RecommendedAction": "Workload review and recovery-time planning with line manager"
+  },
+  {
+    "employeeId": 932,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 932,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 932,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 932,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 932,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 932,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1504,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1504,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1504,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1504,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 1504,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1286,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with poor work-life balance",
+    "RecommendedAction": "Workload review and recovery-time planning with line manager"
+  },
+  {
+    "employeeId": 1286,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1286,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1286,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1286,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1286,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Long tenure, short time in current role",
+    "RecommendedAction": "Career-path discussion and internal mobility options"
+  },
+  {
+    "employeeId": 1175,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with poor work-life balance",
+    "RecommendedAction": "Workload review and recovery-time planning with line manager"
+  },
+  {
+    "employeeId": 1175,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1175,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1175,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 1175,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1175,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 493,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 493,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 493,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 493,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 493,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 55,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 55,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 55,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 55,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 55,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 55,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 741,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 741,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 741,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 741,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 741,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 741,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest environment satisfaction",
+    "RecommendedAction": "Confidential stay interview on workplace blockers"
+  },
+  {
+    "employeeId": 701,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 701,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 701,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 701,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 701,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 701,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 1974,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 1974,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 1974,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 1974,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 1974,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 1974,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 65,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with poor work-life balance",
+    "RecommendedAction": "Workload review and recovery-time planning with line manager"
+  },
+  {
+    "employeeId": 65,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 65,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 65,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 2021,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 2021,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 2021,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 2021,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 2021,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 2023,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 2023,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 2023,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 2023,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Lowest job satisfaction",
+    "RecommendedAction": "Stay interview on role expectations and support needs"
+  },
+  {
+    "employeeId": 2023,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  },
+  {
+    "employeeId": 4,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime with low job involvement",
+    "RecommendedAction": "Role-fit conversation; reassess task allocation"
+  },
+  {
+    "employeeId": 4,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Workload & Well-being Agent",
+    "Trigger": "Overtime at junior job level",
+    "RecommendedAction": "Apply overtime cap; require manager approval above threshold"
+  },
+  {
+    "employeeId": 4,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Pay in bottom quartile",
+    "RecommendedAction": "Compensation benchmarking against role and level peers"
+  },
+  {
+    "employeeId": 4,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "Paid below role-peer median",
+    "RecommendedAction": "Pay-equity review within job role"
+  },
+  {
+    "employeeId": 4,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Career & Compensation Agent",
+    "Trigger": "No stock options granted",
+    "RecommendedAction": "Assess eligibility for equity grant (high-ROI retention lever)"
+  },
+  {
+    "employeeId": 4,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Recently changed manager",
+    "RecommendedAction": "Schedule structured 1:1 and skip-level check-in"
+  },
+  {
+    "employeeId": 4,
+    "RiskScore": 81.82,
+    "RiskTier": "Critical",
+    "Agent": "Manager Support Agent",
+    "Trigger": "Within first two years",
+    "RecommendedAction": "Onboarding health check at 30/60/90-day cadence"
+  }
+]
